@@ -1,0 +1,44 @@
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.exe.config
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.exe
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.pdb
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.csprojResolveAssemblyReference.cache
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Login.resources
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.csproj.GenerateResource.Cache
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.exe
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.pdb
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Aplicativo.mdb
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Form1.resources
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Inicio.resources
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Proveedor.resources
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Usuario.resources
+c:\users\katerinne rojas o\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Factura.resources
+C:\Users\Katerinne Rojas O\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Producto.resources
+C:\Users\Katerinne Rojas O\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Cliente.resources
+C:\Users\Katerinne Rojas O\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Cliente1.resources
+C:\Users\Katerinne Rojas O\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Ventas.resources
+C:\Users\Katerinne Rojas O\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Inf.resources
+C:\Users\Katerinne Rojas O\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Empresa.resources
+C:\Users\Katerinne Rojas O\documents\visual studio 2015\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Venta2.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.exe.config
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.exe
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.pdb
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Aplicativo.mdb
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.exe
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\bin\Debug\Sistema_de_Ventas.pdb
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Cliente.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Cliente1.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Empresa.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Factura.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Form1.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Inf.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Inicio.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Login.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Producto.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Properties.Resources.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Proveedor.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Usuario.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Venta2.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.Ventas.resources
+C:\Users\Katerinne Rojas O\Documents\Dennys K. Rojas\Universidad\Lenguaje de programacion  I\Projects\Projects\Sistema_de_Ventas\Sistema_de_Ventas\obj\Debug\Sistema_de_Ventas.csproj.GenerateResource.Cache
